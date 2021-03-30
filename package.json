@@ -1,0 +1,23 @@
+{
+  "name": "WebPush",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajdigia/WebPush.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajdigia/WebPush/issues"
+  },
+  "homepage": "https://github.com/ajdigia/WebPush#readme",
+  "dependencies": {
+    "web-push": "^3.4.4"
+  }
+}
