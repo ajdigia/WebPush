@@ -11,11 +11,11 @@ let vapidkeys = {
 push.setVapidDetails('mailto:ajdigia@pointpark.edu' , vapidkeys.publickey, vapidkeys.privatekey)
 
 let sub = {
-    endpoint:'https://updates.push.services.mozilla.com/wpush/v1/gAAAAABgb…UJkIWnot4SqkiIVw-bnfrNiyAoXWdiRqtQsPxVn2JjMZhR266SjIdtQHWF28',
+    endpoint:'https://https://updates.push.services.mozilla.com/wpush/v1/gAAAAABgb…pVEUDaUSHpz8GfAQDcaBw7DceItTRk8kf-InbLXbs0M1OxxEeShMZKi9WaQc',
     expirationTime: null,
     keys: {
-        p256dh:'BJOEtOBqkz69fSk4sQOTjAleb2kTC0f8VsMwNf2gPWylAI8LkF8k9Rd9v2jQGctx72ln1sK4_AytDq4-wm6ZDV8',
-        auth:'SVGQHwCORPeLIJ80LazW6g'
+        p256dh:'BOni1M0xhkEEMDc7EQ11RntoZwxueBfTqcueQXH2CcLBVstFUjrRN3ONxJGvjmRK36IIfiEvqEzt6LIjjHn1Aw0',
+        auth:'GR6GsLubB2gXOMAvc0bNmA'
     }
 
 }
